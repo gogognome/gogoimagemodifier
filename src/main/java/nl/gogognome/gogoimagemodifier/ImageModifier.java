@@ -19,7 +19,12 @@ public class ImageModifier {
 		 image = ImageIO.read(url);
 		 g = image.getGraphics();
 	}
-	
+
+	public void loadImage(File file) throws IOException {
+		 image = ImageIO.read(file);
+		 g = image.getGraphics();
+	}
+
 	public void saveImage(File outputFile, String formatName) throws IOException {
 		ImageIO.write(image, formatName, outputFile);
 	}
