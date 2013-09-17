@@ -32,6 +32,7 @@ public class ImageModifierMavenPlugin extends AbstractMojo {
 
 	/**
 	 * A list of commands to modify the image.
+	 * @parameter
 	 */
 	private String[] commands;
 
