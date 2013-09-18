@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>nl.gogognome</groupId>
-	<artifactId>gogoimagemodifier</artifactId>
+	<artifactId>image-modifier-maven-plugin</artifactId>
 	<version>1.0</version>
 	<name>gogo image modifier</name>
 	<description>A tool to add text to an existing image. Can be useful to add a version number to a splash image during the build process.</description>
