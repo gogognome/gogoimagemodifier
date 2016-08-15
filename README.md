@@ -1,7 +1,7 @@
 # Gogo Image Modifier
 A tool to add text to an existing image. Can be useful to add a version number to a splash image during the build process.
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/nl.gogognome/gogoimagemodifier/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/nl.gogognome/gogoimagemodifier)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/nl.gogognome/image-modifier-maven-plugin/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/nl.gogognome/image-modifier-maven-plugin)
 
 ## Typical usage
 
