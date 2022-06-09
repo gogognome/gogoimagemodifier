@@ -19,7 +19,7 @@ After adding the following snippet to your pom.xml, during compilation of your p
         <plugin>
             <groupId>nl.gogognome</groupId>
             <artifactId>image-modifier-maven-plugin</artifactId>
-            <version>1.0.0</version>
+            <version>1.1.0</version>
             <executions>
                 <execution>
                     <id>generateSplashImage</id>
